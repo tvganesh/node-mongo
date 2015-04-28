@@ -9,7 +9,7 @@ For other posts with Node.js,NodeExpress,Bluemix - MongoDB,PostgreSQL or Cloudan
 3. [Elements of CRUD with NodeExpress and MongoDB using Enide Studio](https://gigadom.wordpress.com/2014/08/04/elements-of-crud-with-nodeexpress-and-mongodb-using-enide-studio/)
 4. [Brewing a potion with Bluemix, PostgreSQL & Node.js in the cloud](https://gigadom.wordpress.com/2014/07/22/brewing-a-potion-with-bluemix-postgresql-node-js-in-the-cloud/)
 6. [A Bluemix recipe with MongoDB and Node.js](https://gigadom.wordpress.com/2014/07/27/a-bluemix-recipe-with-mongodb-and-node-js/)
-7. [Spicing up IBM Bluemix with MongoDB and NodeExpress]https://gigadom.wordpress.com/2014/08/07/spicing-up-a-ibm-bluemix-cloud-app-with-mongodb-and-nodeexpress/
+7. [Spicing up IBM Bluemix with MongoDB and NodeExpress](https://gigadom.wordpress.com/2014/08/07/spicing-up-a-ibm-bluemix-cloud-app-with-mongodb-and-nodeexpress/)
 8. [A Cloud Medley with IBM’s Bluemix, Cloudant and Node.js](https://gigadom.wordpress.com/2014/08/15/a-cloud-medley-with-ibm-bluemix-cloudant-db-and-node-js/)
 9. [Rock N’ Roll with Bluemix, Cloudant & NodeExpress](https://gigadom.wordpress.com/2014/08/19/rock-n-roll-with-bluemix-cloudant-nodeexpress/)
 11. [What’s up Watson? Using IBM Watson’s QAAPI with Bluemix, NodeExpress – Part 1](https://gigadom.wordpress.com/2014/10/11/whats-up-watson-using-ibm-watsons-qaapi-with-bluemix-nodeexpress-part-1/)
